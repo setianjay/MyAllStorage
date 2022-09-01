@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyAllStorage</string>
+    <string name="external_storage">External Storage</string>
+    <string name="internal_storage">Internal Storage</string>
+    <string name="local_persistence">Local Persistence</string>
+    <string name="create_file">Create File</string>
+    <string name="update_file">Update File</string>
+    <string name="read_file">Read File</string>
+    <string name="delete_file">Delete File</string>
+    <string name="no_files_to_delete">No files to delete</string>
+    <string name="no_files_to_update">No files to update</string>
+    <string name="no_files_to_read">No files to read</string>
+    <string name="permission_not_allowed">There are permissions that have not been allowed</string>
+    <string name="create_file_failed">Create file failed</string>
+    <string name="create_file_successfully">Create file successfully</string>
+    <string name="delete_file_successfully">Delete file successfully</string>
+    <string name="update_file_successfully">Update file successfully</string>
+    <string name="title">Title</string>
+    <string name="start_typing">Start Typing</string>
+    <string name="daily_title_empty">Title cannot be empty</string>
+    <string name="daily_content_empty">Content cannot be empty</string>
+    <string name="daily_form">Daily Form</string>
+    <string name="update_daily_form">Update Daily Form</string>
+    <string name="add_daily_form">Add Daily Form</string>
+</resources>

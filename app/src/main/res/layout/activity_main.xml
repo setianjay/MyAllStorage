@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="@dimen/dp_8"
+    tools:context=".presentations.MainActivity">
+
+    <!-- Button for implementation of external storage -->
+    <Button
+        android:id="@+id/btn_external"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/external_storage" />
+
+    <!-- Button for implementation of internal storage-->
+    <Button
+        android:id="@+id/btn_internal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/internal_storage" />
+
+    <!-- Button for implementation of data persistence (SqlLite)-->
+    <Button
+        android:id="@+id/btn_local_persistence"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/local_persistence" />
+
+</LinearLayout>

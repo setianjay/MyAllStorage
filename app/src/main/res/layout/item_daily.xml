@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    app:cardCornerRadius="@dimen/dp_8"
+    app:cardElevation="@dimen/dp_8">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/tv_daily_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            tools:text="First Day of School" />
+
+        <TextView
+            android:id="@+id/tv_daily_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="11sp"
+            android:textStyle="bold"
+            tools:text="20 August 2022" />
+
+        <TextView
+            android:id="@+id/tv_daily_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="22dp"
+            android:textSize="11sp"
+            android:textStyle="bold"
+            tools:text="Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum ...." />
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

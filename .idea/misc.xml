@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Budel/Belajar/Coding/Android/DigitalTalent/AllStorage/app/src/main/res/layout/activity_daily_form.xml" value="0.25052083333333336" />
+        <entry key="..\:/Budel/Belajar/Coding/Android/DigitalTalent/AllStorage/app/src/main/res/layout/activity_external.xml" value="0.25052083333333336" />
+        <entry key="..\:/Budel/Belajar/Coding/Android/DigitalTalent/AllStorage/app/src/main/res/layout/activity_external_storage.xml" value="0.24666666666666667" />
+        <entry key="..\:/Budel/Belajar/Coding/Android/DigitalTalent/AllStorage/app/src/main/res/layout/activity_internal_storage.xml" value="0.25052083333333336" />
+        <entry key="..\:/Budel/Belajar/Coding/Android/DigitalTalent/AllStorage/app/src/main/res/layout/activity_local_persistence.xml" value="0.4" />
+        <entry key="..\:/Budel/Belajar/Coding/Android/DigitalTalent/AllStorage/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/Budel/Belajar/Coding/Android/DigitalTalent/AllStorage/app/src/main/res/layout/item_daily.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
